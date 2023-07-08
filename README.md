@@ -75,7 +75,7 @@ Further, from Figure 15, we can see that the only cluster where there is a highe
 
 
 
-## **Conclusions:**
+## **Conclusion:**
 
 Figs 14, 15, and 16 indicate that the mall should focus on increasing its profits from Cluster 3, i.e., high income earners with a low spending score. Their high income suggest that they have the potential to spend more, but are not spending it. We also know that there happen to be more men in Cluster 3 than women, and that the average age of customers in Cluster 3 is 41. So, the mall should make more efforts to market towards and increase its profits from high earning men in their 40s. 
 
