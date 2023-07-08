@@ -1,7 +1,7 @@
 # Customer Segmentation and Analysis
 In this project, I have employed clustering, an unsupervised machine learning algorithm, to try to find hidden patterns in the spending patterns of different customers at a mall, which can be used to provide valuable insight into who and how the mall should focus its marketing efforts in order to increase its profits. 
 
-![image](https://github.com/gayatriamulya/customer_segmentation/assets/138921379/cf007f4b-5484-446d-9625-6dc77773c4e4)
+![alt text](https://github.com/gayatriamulya/customer_segmentation/blob/main/image.png?raw=true)
 
  (Fig 1)
 
