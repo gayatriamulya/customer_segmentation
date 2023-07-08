@@ -1,14 +1,14 @@
 # Customer Segmentation and Analysis
 In this project, I have employed clustering, an unsupervised machine learning algorithm, to try to find hidden patterns in the spending patterns of different customers at a mall, which can be used to provide valuable insight into who and how the mall should focus its marketing efforts in order to increase its profits. 
 
-![alt text](https://github.com/gayatriamulya/customer_segmentation/blob/main/image.png?raw=true)
+![alt text](https://github.com/gayatriamulya/customer_segmentation/blob/main/Images/Fig%201.png?raw=true)
 
  (Fig 1)
 
 There are 4 columns to take into account while performing the analysis – Gender, Age, Annual Income (k$), and Spending Score (1-100).
 
 
-![image](https://github.com/gayatriamulya/customer_segmentation/assets/138921379/348db746-9de4-4bda-9403-a2ac97b23f15)
+![image](https://github.com/gayatriamulya/customer_segmentation/blob/main/Images/Fig%201.png?raw=true)
  (Fig 2)
 
 We can see that the majority of customers are in the age group 30-40, the majority of customers have an annual income between $60k-$80k, and the majority of customers have a spending score of around 50. 
